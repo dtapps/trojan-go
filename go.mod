@@ -14,8 +14,8 @@ require (
 	github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe // indirect
 	github.com/v2fly/v2ray-core/v4 v4.39.2
 	github.com/xtaci/smux v1.5.15
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5
-	golang.org/x/term v0.0.0-20210503060354-a79de5458b56
+	golang.org/x/net v0.7.0
+	golang.org/x/term v0.5.0
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	google.golang.org/grpc v1.38.0
 	google.golang.org/protobuf v1.26.0
